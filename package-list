@@ -1,3 +1,11 @@
+com.spacetimecat.build.dependency
+com.spacetimecat.build.math
+com.spacetimecat.build.math.bound
+com.spacetimecat.build.math.extended
+com.spacetimecat.build.math.range
+com.spacetimecat.build.math.vector
+com.spacetimecat.build.plugin.gradle
+com.spacetimecat.build.version.string
 com.spacetimecat.concurrent
 com.spacetimecat.concurrent.gate
 com.spacetimecat.concurrent.gate.imp
@@ -14,6 +22,7 @@ com.spacetimecat.concurrent.lock.service.store.server
 com.spacetimecat.concurrent.semaphore
 com.spacetimecat.io
 com.spacetimecat.java.lang
+com.spacetimecat.java.lang.compare
 com.spacetimecat.server
 com.spacetimecat.server.imp
 com.spacetimecat.web.example
